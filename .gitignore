@@ -1,0 +1,12 @@
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.env
+results/
+ieee_project_report.md
+ieee_evaluation_report.md
+PROJECT_CONTEXT.md
+metadata.json
+*.docx
+*.pdf
